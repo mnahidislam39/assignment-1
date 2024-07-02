@@ -22,7 +22,7 @@ a {
   background-color: #483c5a;
 }
 .card .profile-card {
-  width: 300px;
+  width: 350px;
   height: auto;
   background-color: aliceblue;
   padding: 20px;
@@ -30,12 +30,12 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 35px;
   border-radius: 5px;
   box-shadow: 0 0 25px -10px #000000;
 }
 .card .profile-card .img {
-  padding: 20px;
+  padding: 30px;
   width: 150px;
   height: 150px;
   overflow: hidden;
@@ -43,6 +43,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 10px;
 }
 .card .profile-card .img img {
   width: 300%;
