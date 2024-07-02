@@ -22,7 +22,7 @@ a {
   background-color: #483c5a;
 }
 .card .profile-card {
-  width: 350px;
+  width: 320px;
   height: auto;
   background-color: aliceblue;
   padding: 20px;
@@ -43,10 +43,10 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 .card .profile-card .img img {
-  width: 300%;
+  width: 500%;
   height: auto;
 }
 .card .profile-card .card-content {
